@@ -1,0 +1,3 @@
+Machine Learning basics
+
+    Machine learning is a subset of artificial intelligence that focuses on building systems that can learn from data and improve their performance over time without being explicitly programmed. It involves training algorithms on datasets to recognize patterns, make predictions, and make decisions based on new data. Common applications include image recognition, natural language processing, and recommendation systems.
